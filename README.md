@@ -37,4 +37,30 @@
 ---
 
 ## 📈 GitHub Stats
-<
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrakarshShende&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakarshShende&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/prakarsh-shende-65554732b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:prakarshshende2901@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.instagram.com/prakarsh_sh">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+⭐ **Thank you for visiting my profile!**  
+✨ *Feel free to explore my repositories and connect with me.*
