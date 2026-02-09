@@ -1,45 +1,40 @@
-# Hi 👋, I'm Prakarsh Shende
+<h1 align="center">Hi 👋, I'm Prakarsh Shende</h1>
+<h3 align="center">A Passionate Programmer & Tech Enthusiast</h3>
 
-🎯 Passionate programmer and tech enthusiast  
-💻 Interested in software development, web technologies, and problem-solving  
+<p align="center">
+  <a href="https://github.com/PrakarshShende">
+    <img src="https://komarev.com/ghpvc/?username=PrakarshShende&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
-- I enjoy learning new technologies and improving my coding skills.
-- I like working with both low-level and high-level programming languages.
-- Currently exploring web development and core computer science concepts.
+- 💻 Aspiring **Software Developer**
+- 🌱 Currently learning **Web Development & Core Programming**
+- 🧠 Interested in **Problem Solving & Building Projects**
+- 🎯 Goal: Become a skilled and versatile developer
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- C  
-- C++  
-- Java  
-- Python  
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+</p>
 
 ### 🌐 Web Technologies
-- HTML  
-- CSS  
-- JavaScript  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
 
 ---
 
-## 📈 Goals
-- Strengthen problem-solving and DSA skills  
-- Build real-world projects  
-- Learn advanced programming and modern web development  
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: [Prakarsh Shende](https://www.linkedin.com/in/prakarsh-shende-65554732b)
-- 📧 Email: **prakarshshende2901@gmail.com**
-- 📸 Instagram: [@prakarsh_sh](https://www.instagram.com/prakarsh_sh)
-- 💻 GitHub: [@PrakarshShende](https://github.com/PrakarshShende)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+## 📈 GitHub Stats
+<
